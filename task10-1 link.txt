@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<a href="C:\Users\User\Desktop\muqadas from kamyab jawan\Tariq.pptx;">Local File</a><br>
+<a href="C:\Users\User\Desktop\muqadas from kamyab jawan;">High level directory</a><br>
+<a href="www.google.com">Google</a><br>
+<a href="mailto:alimuqadas432@gmail.com">Gmail</a>
+
+
+</body>
+</html>
